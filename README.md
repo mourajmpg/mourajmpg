@@ -6,9 +6,9 @@
   <br>
   <br>
 <div style="display: inline_block">
-  <img height='220em' src='https://github-readme-stats.vercel.app/api?username=mourajmpg&show_icons=true&theme=blue-green'/>
+  <img height='210em' src='https://github-readme-stats.vercel.app/api?username=mourajmpg&show_icons=true&theme=blue-green'/>
   <br>
-  <img height='230em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mourajmpg&theme=blue-green'/>
+  <img height='210em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mourajmpg&theme=blue-green'/>
   <img height='200em' src='https://faculdadedombosco.net/media/filer_public/2020_7/42f1c949_logo_sistemas-icone.png'/>
 </div>
 
