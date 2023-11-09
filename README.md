@@ -1,14 +1,15 @@
 ### Hello, there!
   <a href="https://www.instagram.com/moura_jmpg/?hl=pt-br" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
   <a href="https://www.furg.br/" target="_blank">
   <img src='https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black' ></a>
   <br>
+  <br>
 <div style="display: inline_block">
   <img height='180em' src='https://github-readme-stats.vercel.app/api?username=mourajmpg&show_icons=true&theme=blue-green'/>
+  <br>
   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mourajmpg&theme=blue-green'/>
-  <img height='150' src='https://faculdadedombosco.net/media/filer_public/2020_7/42f1c949_logo_sistemas-icone.png'/>
+  <img height='170em' src='https://faculdadedombosco.net/media/filer_public/2020_7/42f1c949_logo_sistemas-icone.png'/>
 </div>
 
 ## Tenologias mais usadas:
