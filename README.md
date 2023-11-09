@@ -12,7 +12,7 @@
   <img align='right' height='200em' src='https://faculdadedombosco.net/media/filer_public/2020_7/42f1c949_logo_sistemas-icone.png'/>
 </div>
 
-<h2> Linguagens e tecnologias que uso </h2>
+<h2> Technologies </h2>
   <div>
   <img height='30' align="center" alt="Augusto-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img height='30' align="center" alt="Augusto-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
